@@ -1,7 +1,7 @@
-# Task name: Student percentage prediction
+# Task title: Student percentage prediction
 
 **Objective:**
-To predict the percentage of an student based on the no. of study hours
+To predict the percentage of students based on the no. of study hours
 			
 **How to use:**
 1. Replace the dataset path in *Student_Score_Predictor.ipynb* notebook
